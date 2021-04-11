@@ -1,0 +1,54 @@
+Linear
+Insert 1
+Insert 11
+Insert 4
+Insert 15
+Insert 22
+Not found
+Already exists
+Insert 23
+Insert 24
+Insert 9
+Insert 18
+Insert 77
+Insert 16
+Deleted 4
+Deleted 18
+85 not exists
+11 1 22 23 0 15 24 0 77 9 16 
+
+Quadratic
+Insert 1
+Insert 11
+Insert 4
+Insert 15
+Insert 22
+Not found
+Already exists
+Insert 23
+Insert 24
+Insert 9
+Insert 18
+Deleted 4
+Deleted 18
+86 not exists
+11 1 23 24 0 15 0 0 0 22 9 
+
+Double
+Insert 1
+Insert 11
+Insert 4
+Insert 15
+Insert 22
+Not found
+Already exists
+Insert 23
+Insert 24
+Insert 9
+Insert 18
+Insert 77
+Deleted 4
+Deleted 18
+87 not exists
+11 1 24 77 0 23 22 0 0 9 15 
+
